@@ -30,6 +30,8 @@ onlines profissionais agora é possível com apenas alguns cliques!
 >VsCode para codificação
 >GitHub para planejamento, Kanbam e versionamento do código
 
+## Metodologia Ágil
+> Kanban
 
 ## Quadro Kanban
 ![Print1](https://github.com/user-attachments/assets/b35a08f7-e484-416e-a6f6-8c7221ffd640)
