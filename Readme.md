@@ -22,9 +22,11 @@ onlines profissionais agora é possível com apenas alguns cliques!
 >JavaScript (FRONT-END) <br>
 >Html (FRONT-END)<br>
 >TailWind CSS (FRONT-END)<br>
+>Figma (PROTOTIPAÇÃO) <br>
 >Django (BACK-END)<br>
 >Python (BACK-END) <br>
 >SqlAlchemy (BANCO DE DADOS)<br>
+>GitHub (VERSIONAMENTO DE CÓDIGO)
 
 ## Implantação 
 >VsCode para codificação
