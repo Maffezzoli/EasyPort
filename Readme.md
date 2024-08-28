@@ -28,7 +28,7 @@ onlines profissionais agora é possível com apenas alguns cliques!
 
 ## Implantação 
 >VsCode para codificação
->GitHub para planejamento, kanbam e versionamento do código
+>GitHub para planejamento, Kanbam e versionamento do código
 
 
 ## Quadro Kanban
