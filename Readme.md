@@ -29,7 +29,7 @@ onlines profissionais agora é possível com apenas alguns cliques!
 >GitHub (VERSIONAMENTO DE CÓDIGO)
 
 ## Implantação 
->VsCode para codificação
+>VsCode para codificação<br>
 >GitHub para planejamento, Kanbam e versionamento do código
 
 ## Metodologia Ágil
